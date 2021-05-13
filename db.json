@@ -37,6 +37,35 @@
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ],
+  "styleguide": {
+    "buttons": [
+      {
+        "id": 1,
+        "type": "primary",
+        "label": "Primary"
+      },
+      {
+        "id": 2,
+        "type": "secondary",
+        "label": "Secondary"
+      },
+      {
+        "id": 3,
+        "type": "success",
+        "label": "Success"
+      },
+      {
+        "id": 4,
+        "type": "warning",
+        "label": "Warning"
+      },
+      {
+        "id": 5,
+        "type": "danger",
+        "label": "Danger"
+      }
+    ]
+  },
   "profile": {
     "name": "typicode"
   }
