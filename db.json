@@ -20,19 +20,19 @@
     },
     {
       "id": 4,
-      "title": "This is the first post",
+      "title": "This is the fourth post",
       "image": "https://blog.jadu.net/hubfs/hyland%20blog.jpeg",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "id": 5,
-      "title": "This is the second post",
+      "title": "This is the fifth post",
       "image": "https://blog.jadu.net/hubfs/Vuelio%20blog%20header.png",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "id": 6,
-      "title": "This is the third post",
+      "title": "This is the sixth post",
       "image": "https://blog.jadu.net/hubfs/photo-1523474438810-b04a2480633c.jpeg",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
